@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /gethtmlsource.php
+Disallow: /deviceinfo.php
+Disallow: /validateurl.php
+Disallow: /lastcheckurl.php
+Disallow: /project/
+Disallow: /?url=
+
+User-agent: Googlebot-Image
+Disallow: /gethtmlsource.php
+Disallow: /deviceinfo.php
+Disallow: /validateurl.php
+Disallow: /lastcheckurl.php
+Disallow: /project/
+Disallow: /?url=
+Allow: /
+
+User-agent: Mediapartners-Google*
+Disallow: /gethtmlsource.php
+Disallow: /deviceinfo.php
+Disallow: /validateurl.php
+Disallow: /lastcheckurl.php
+Disallow: /project/
+Disallow: /?url=
+Allow: /
+
