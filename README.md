@@ -1,9 +1,14 @@
+<img border="0" src="http://3.bp.blogspot.com/-876eaD68UAg/UozhWCM7AXI/AAAAAAAABEw/nsLzzbsyIp0/s1600/ZOOMQUERIES+LOGO.png" />
+
 # ZOOMQUERIES
 Professional Tool For Testing Your Responsive Web Design. 
 
-<img border="0" src="http://3.bp.blogspot.com/-876eaD68UAg/UozhWCM7AXI/AAAAAAAABEw/nsLzzbsyIp0/s1600/ZOOMQUERIES+LOGO.png" />
+## <b>License</b><br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
 
-* Custom Viewer Mode (Simple Mode or Device Mode)
+## Support
+* Custom Viewer Mode (Support Mode or Device Mode)
 * HTTP and Localhost Support
 * HTML Editor (CSS and Javascript Support)
 * Viewport Size Info for Browser or Device
@@ -19,4 +24,3 @@ Professional Tool For Testing Your Responsive Web Design.
 
 ![image](https://user-images.githubusercontent.com/42666125/111259059-c543e980-8650-11eb-9893-177fd28968b4.png)
 
-<img style="float:right; padding-top:10px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbuananetpbun.github.io%2F&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
